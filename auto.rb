@@ -1,0 +1,1 @@
+thai is demo atuomation of devops pipleline
